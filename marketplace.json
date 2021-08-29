@@ -2,6 +2,7 @@
   "app_name": "Sahay", 
   "description": "A collaborative experience for hospitals to manage resources powered by Vue, Firebase, JavaScript and Redis",
   "type": "Full App",
+  "rank": 165,
   "contributed_by": "Community", 
   "repo_url": "https://github.com/redis-developer/sahay-mobile", 
   "preview_image_url": "https://raw.githubusercontent.com/redis-developer/sahay-mobile/master/images/app_preview_image.png",
