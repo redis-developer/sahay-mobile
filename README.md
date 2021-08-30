@@ -79,7 +79,7 @@ We learned more about the what and why to the problems of resource shortage in o
 - [Mobile App](https://github.com/redis-developer/mobile)
 - [Web Application](https://github.com/redis-developer/sahay-dash)
 - [API](https://github.com/redis-developer/sahaybackend)
-- [Promotional Website](https://github.com/redis-developer/sahay-web)
+- [Website](https://github.com/arhaanb/sahay.us)
 
 
 ## The team
