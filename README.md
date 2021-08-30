@@ -76,11 +76,11 @@ We learned more about the what and why to the problems of resource shortage in o
 
 ## Source Code
 
-- [Mobile App](https://github.com/arhaanb/sahay-mobile)
-- [Web Application](https://github.com/arhaanb/sahay-dash)
-- [API](https://github.com/jemsbhai/sahaybackend)
-- [Promotional Website](https://github.com/arhaanb/sahay-web)
-- [Branding](https://sahay.us/design)
+- [Mobile App](https://github.com/redis-developer/mobile)
+- [Web Application](https://github.com/redis-developer/sahay-dash)
+- [API](https://github.com/redis-developer/sahaybackend)
+- [Promotional Website](https://github.com/redis-developer/sahay-web)
+
 
 ## The team
 
