@@ -1,30 +1,30 @@
 {
-  "app_name": "Sahay", 
+  "app_name": "Sahay",
   "description": "A collaborative experience for hospitals to manage resources powered by Vue, Firebase, JavaScript and Redis",
   "type": "Full App",
   "rank": 165,
-  "contributed_by": "Community", 
-  "repo_url": "https://github.com/redis-developer/sahay-mobile", 
+  "contributed_by": "Community",
+  "repo_url": "https://github.com/redis-developer/sahay-mobile",
   "preview_image_url": "https://raw.githubusercontent.com/redis-developer/sahay-mobile/master/images/app_preview_image.png",
-  "download_url": "https://github.com/redis-developer/sahay-mobile/archive/refs/heads/main.zip", 
+  "download_url": "https://github.com/redis-developer/sahay-mobile/archive/refs/heads/main.zip",
   "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/sahay-mobile.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/sahay-mobile.git"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/sahay-mobile.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/sahay-mobile.git"
         }
     ],
-  
-  "language": ["Vue", "Firebase", "JavaScript"], 
+
+  "language": ["Vue", "Firebase", "JavaScript"],
   "redis_commands": [
-  ], 
-  "redis_features": [], 
-  "redis_modules": ["RedisJSON"],
-  "app_image_urls": [], 
+  ],
+  "redis_use_cases": [],
+  "redis_features": ["JSON"],
+  "app_image_urls": [],
   "youtube_url": "https://www.youtube.com/watch?v=2CqAJ3mKPBk",
-  "special_tags": ["Hackathon"], 
-  "verticals": ["Healthcare"], 
-  "markdown": "https://raw.githubusercontent.com/redis-developer/sahay-mobile/master/README.md" 
+  "special_tags": ["Hackathon"],
+  "verticals": ["Healthcare"],
+  "markdown": "https://raw.githubusercontent.com/redis-developer/sahay-mobile/master/README.md"
 }
