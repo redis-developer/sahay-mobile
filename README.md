@@ -28,7 +28,7 @@ Prototype was built on Figma, along with branding. The app was built using VueJS
 
 We deployed redisJson as a fast access datastore for storing requested materials, supplies and equipment as part of our request, and for real time invetory management and tracking. The redisJson database was deployed as part of the redis enterpise cloud deployment. The redisJson datastore stores quantities, types and units of various medical essentials such as blood, plasma, medicines, essential equipment and gear. The realtime data is indexed using a composite key made up of a hospital location markerid, a timestamp and a type indicator. Redis allows inventory of these critical supplies to be tracked real time, therefore allowing less chances of mismatches or supply underruns occurring during emergencies.
 
-The RedisJSON deployment on the redis enterprise cloud provides a gateway to store the invetory data realtime and also allows requests to be processed much faster than with a traditional database.
+The Redis JSON deployment on the redis enterprise cloud provides a gateway to store the invetory data realtime and also allows requests to be processed much faster than with a traditional database.
 
 ## User Flow
 
@@ -58,7 +58,7 @@ Let's work together to defeat the virus.
 
 So we aim to provide a service to assist the medical industry in any way, and not binding with financial constraints. We would start off with a low scale release and testing phase, with around 100 - 200 users. Over the next month or two, start with funding to get it into a stable state and later release it into Delhi with a marketing campaign. If things go well, over the next 1-2 months we expand on our hospital database and provide our SaaS to even more hospitals. Later we plan for a nation-wide launch, get some sort of approval and help from the government to allow our team to expand. Sahay is not only limited to India and can also spread internationally, as it is essentially an application and wouldn't require too much effort to push ahead.
 
-As we grow, we also have plans to release a public API as we'll have a large database of equipment that hospitals have. This data could be used by other developers to build apps that improve the interaction between users and hospitals. 
+As we grow, we also have plans to release a public API as we'll have a large database of equipment that hospitals have. This data could be used by other developers to build apps that improve the interaction between users and hospitals.
 
 For example, in the current scenario in India, where everyone is looking for beds, remedesivir, and other resources, people are having to manually call up hospitals and suppliers to verify whether these resources are available. As our API updates in real-time, this verfification step can be removed and people in need can directly check which reources are available.
 
@@ -88,4 +88,3 @@ We learned more about the what and why to the problems of resource shortage in o
 - Siddhayak Goyal
 - Inesh Tickoo
 - Muntaser Syed
-
